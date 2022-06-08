@@ -1,0 +1,43 @@
+body {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    background-image: url("nphrgz8yfnjylrwfr0yl.webp");
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    margin-top: 350px;
+}
+
+h1 a {
+    text-decoration: none;
+    color: #ff0800;
+}
+
+nav {
+    /*position: absolute;
+    top: 57px;
+    right: 324px;
+    left: 272px;*/
+    text-align: center;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+    /*espaçamento a esquerda do texto*/
+}
+
+nav a:hover {
+    /*significa quando o mouse passa por cima do item*/
+    color: #ff0800;
+    text-decoration: underline;
+}

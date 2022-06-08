@@ -1,0 +1,39 @@
+body {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    background-image: url("nphrgz8yfnjylrwfr0yl.webp");
+}
+
+nav {
+    top: 25px;
+    right: 324px;
+    left: 272px;
+    text-align: center;
+    margin-bottom: -7px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+    /*espaçamento a esquerda do texto*/
+}
+
+nav a:hover {
+    /*significa quando o mouse passa por cima do item*/
+    color: #ff0800;
+    text-decoration: underline;
+}
+
+.container {
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
