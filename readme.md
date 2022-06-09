@@ -2,3 +2,5 @@
 
 Utilizado para sessões de RPG de mesa!
 
+Utilizando apenas HTML e CSS.
+
